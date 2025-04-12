@@ -20,6 +20,9 @@ A cybersecurity-focused internship project by **Aman Kothari** that evaluates pa
   - Use of uppercase, lowercase, digits, special characters
   - Presence in **rockyou.txt** (common passwords list)
 - Simple and fast to use in terminal
+> **Note:** This project uses `rockyou.txt` to detect weak/common passwords.
+> Due to its large size (~14MB), it is **not included** in this repository.
+> Please download it manually and place it in the same directory as the script to enable full functionality.
 
 ### GUI Version (CustomTkinter)
 - Show/Hide password toggle
