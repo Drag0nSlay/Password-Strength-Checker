@@ -3,7 +3,7 @@
 A cybersecurity-focused internship project by **Aman Kothari** that evaluates password strength through two modes:
 - A fast **Command Line Interface (CLI)** tool
 - A user-friendly **Graphical User Interface (GUI)** built with **CustomTkinter**
-
+> This project showcases the work done as part of the internship program offered by **@Hack Secure**.
 ---
 
 ## Features
