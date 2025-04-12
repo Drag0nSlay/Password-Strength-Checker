@@ -71,7 +71,10 @@ python cli.py
 cd gui_version
 python gui.py
 ```
-
+## Screenshots
+![GUI Screenshot](assets/password_gui.png)
+![CLI Screenshot](assets/password_cli.png)
+![Report Screenshot](assets/password_report.png)
 ## Author
 Aman Kothari(Drag0nSlay)<br>
 CyberSecurity Intern at Hack Secure<br>
