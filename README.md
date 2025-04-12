@@ -31,7 +31,7 @@ A cybersecurity-focused internship project by **Aman Kothari** that evaluates pa
 ---
 
 ## Project Structure
-
+```
 password-strength-checker/
 │
 ├── cli_version/
@@ -46,7 +46,7 @@ password-strength-checker/
 ├── LICENSE                               # Strict copyright license
 ├── requirements.txt                      # Dependencies for both versions
 └── README.md                             # Project overview and instructions
-
+```
 ---
 
 ## How to Use
