@@ -70,8 +70,6 @@ python gui.py
 ```
 
 ## Author
-Aman Kothari(Drag0nSlay)
-CyberSecurity Intern at Hack Secure
-![LinkedIN][def]
-
-[def]: https://www.linkedin.com/in/aman-kothari-995944274/
+Aman Kothari(Drag0nSlay)<br>
+CyberSecurity Intern at Hack Secure<br>
+[LinkedIn](https://www.linkedin.com/in/aman-kothari-995944274/)
