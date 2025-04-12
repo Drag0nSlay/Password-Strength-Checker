@@ -60,13 +60,13 @@ pip install -r requirements.txt
 ### 2. Run CLI Version
 ```bash
 cd cli_version
-python password_checker_cli.py
+python cli.py
 ```
 
 ### 3. Run GUI Version
 ```bash
 cd gui_version
-python password_checker_gui.py
+python gui.py
 ```
 
 ## Author
