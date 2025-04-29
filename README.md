@@ -37,11 +37,11 @@ A cybersecurity-focused internship project by **Aman Kothari** that evaluates pa
 ```
 password-strength-checker/
 │
-├── cli_version/
-│   └── password_checker_cli.py           # CLI implementation
+├── cli/
+│   └── cli.py           # CLI implementation
 │
-├── gui_version/
-│   └── password_checker_gui.py           # GUI implementation using CustomTkinter
+├── gui/
+│   └── gui.py           # GUI implementation using CustomTkinter
 │
 ├── assets/
 │   └── screenshot.png                    # Optional: GUI preview or branding image
